@@ -72,10 +72,7 @@ A **content‑based** document recommender that uses:
 
 If you have a GPU (e.g. on Colab):
 
-```bash
-python train_embeddings_gpu.py
-```
-
+use the notebook itself 
 This will:
 
 - Build a **BM25** index (`bm25.pkl`)  
